@@ -1,0 +1,15 @@
+.post {
+
+    background: #6798f588;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.post small {
+
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
